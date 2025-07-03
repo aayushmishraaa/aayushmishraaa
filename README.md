@@ -28,8 +28,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushmishraaa&theme=dark&show_icons=true" alt="aayushStats" />  
-  <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishraaa&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
