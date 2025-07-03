@@ -1,7 +1,7 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://aayushmishraaa.github.io/">Aayush</a></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Software+Developer;System+Architect;Game+Developer;C%2B%2B+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Software+Developer;System+Architect;Game+Developer">
 </p>
 
 <p align="center">
@@ -23,9 +23,7 @@
  <br>
 
 📈 My Github stats <br />
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiswal4sudeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushmishraaa&theme=monokai-metallian&hide_border=true"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushmishraaa&theme=dark&show_icons=true" alt="aayushStats" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishraaa&layout=compact&theme=dark" alt="top-langs" />
