@@ -24,13 +24,10 @@
 
 📈 My Github stats <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushmishraaa&theme=dark&show_icons=true" alt="aayushStats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmishraaa&layout=compact&theme=dark" alt="top-langs" />
-</p>
 
 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aayushmishraaa&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=aayushmishraaa&langs_count=4&theme=dark)
 <br>
 
 **Languages and Tools**
