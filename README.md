@@ -1,7 +1,7 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://aayushmishraaa.github.io/">Aayush</a></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Data+Analyst;Software+Developer;System+Architect;Game+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=AI+Engineer;Software+Developer;Systems+Architect;Game+Developer">
 </p>
 
 <p align="center">
