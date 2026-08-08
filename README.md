@@ -13,8 +13,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on MistEngine :wink:.
-- 🌱  I’m currently learning Next.JS and TypeScript. 
+- 👨🏽‍💻  I’m currently working on Ryvos :wink:.
+- 🌱  I’m currently learning how to be healthy 😜. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: aayushmishra169@gmail.com.
 
